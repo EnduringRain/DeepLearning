@@ -1,0 +1,65 @@
+[
+  {
+    "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "actual_label": "spam",
+    "predicted_label": "spam",
+    "confidence": 0.0,
+    "timestamp": "2025-05-27T07:32:53.527533"
+  },
+  {
+    "message": "aaaaaaaaaaaaaaaaaaaaaaaaa",
+    "actual_label": "ham",
+    "predicted_label": "spam",
+    "confidence": 0.0,
+    "timestamp": "2025-05-27T08:02:52.453263"
+  },
+  {
+    "message": "Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030.\n",
+    "actual_label": "spam",
+    "predicted_label": "spam",
+    "confidence": 0.0,
+    "timestamp": "2025-05-29T15:34:53.714320"
+  },
+  {
+    "message": "I am a student at Cong Thuong University",
+    "actual_label": "ham",
+    "predicted_label": "spam",
+    "confidence": 0.0,
+    "timestamp": "2025-06-01T02:12:58.480132"
+  },
+  {
+    "message": "You are selected for a free vacation to the Bahamas! Call 09061701461 now to claim.",
+    "actual_label": "spam",
+    "predicted_label": "spam",
+    "confidence": 0.0,
+    "timestamp": "2025-06-01T02:30:40.428642"
+  },
+  {
+    "message": "I'll call you back in 10 minutes, just finishing up a meeting.",
+    "actual_label": "ham",
+    "predicted_label": "ham",
+    "confidence": 0.0,
+    "timestamp": "2025-06-01T02:33:14.508208"
+  },
+  {
+    "message": "I'll call you back in 10 minutes, just finishing up a meeting.",
+    "actual_label": "ham",
+    "predicted_label": "ham",
+    "confidence": 0.0,
+    "timestamp": "2025-06-01T02:33:20.817591"
+  },
+  {
+    "message": "I'll call you back in 10 minutes, just finishing up a meeting.",
+    "actual_label": "ham",
+    "predicted_label": "ham",
+    "confidence": 0.0,
+    "timestamp": "2025-06-01T04:18:51.951320"
+  },
+  {
+    "message": "I'll call you back in 10 minutes, just finishing up a meeting.",
+    "actual_label": "spam",
+    "predicted_label": "ham",
+    "confidence": 0.0,
+    "timestamp": "2025-06-01T04:18:53.754497"
+  }
+]

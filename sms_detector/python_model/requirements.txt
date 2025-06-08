@@ -1,0 +1,9 @@
+tensorflow 
+pandas 
+scikit-learn
+fastapi 
+uvicorn
+seaborn
+nlpaug
+nltk
+imblearn
